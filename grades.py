@@ -33,6 +33,7 @@ def calculate_average(scores):
 
 def print_result(scores, average):
     """점수와 평균을 보기 좋게 출력한다."""
+        # 성적 결과를 화면에 보기 좋게 보여준다.
     print("\n" + "=" * 30)
     print("       성적 결과")
     print("=" * 30)
