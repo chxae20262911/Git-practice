@@ -21,6 +21,8 @@ def get_scores():
                 print("  → 숫자를 입력하세요.")
 
     return scores
+
+
 def calculate_average(scores):
     """점수 딕셔너리를 받아 평균을 반환한다."""
     if not scores:
